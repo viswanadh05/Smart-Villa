@@ -40,7 +40,7 @@ __Back-end development:__
 __Tools:__
 * Atom IDE
 * phpmyadmin (Data management)
-* Plugins
+* Wordpress Plugins
 
 ### Test cases
 This project is based on wordpress themes, frameworks, plugins and was built completely in wordpress developement website. Running this project in local system might affect some features, although it can display necessary information required on the all the web pages.
@@ -50,5 +50,9 @@ This project is based on wordpress themes, frameworks, plugins and was built com
 * Copy the entire folder into a PHP web server with an access to MYSQL database.
 * Got to Localhost web page to view the project home page. 
 
-Author
-Viswanadh Bhaskarla
+### Author
+* Developed by __Team Forerunners__
+* Team size: __5__
+* Team Lead: __Viswanadh Bhaskarla__
+* Main tasks: __Backend dev__, __Writing PHP Functions__, __Front-end Dev__, __Database Management__, __Plugin management and Testing__
+
