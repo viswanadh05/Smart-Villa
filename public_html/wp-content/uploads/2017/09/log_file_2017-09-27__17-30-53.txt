@@ -1,0 +1,72 @@
+
+---Downloaded files---
+The import files for: Modern were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://www.smartvilla.com.au
+Data file = /home/forerunners5/public_html/wp-content/themes/realhomes/framework/demos/modern/contents.xml
+Widget file = /home/forerunners5/public_html/wp-content/themes/realhomes/framework/demos/modern/widgets.wie
+Customizer file = /home/forerunners5/public_html/wp-content/themes/realhomes/framework/demos/modern/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+RealHomes - Featured Properties - Featured Properties - Imported
+Search - No Title - Widget already exists
+Categories - No Title - Widget already exists
+
+Pages Sidebar : 
+
+RealHomes - Featured Properties - Featured Properties - Imported
+
+Property Sidebar : 
+
+Mortgage Calculator - Mortgage Calculator - Imported
+RealHomes - Featured Properties - Featured Properties - Imported
+
+Property Listing Sidebar : 
+
+RealHomes - Property Types - Property Types - Imported
+RealHomes - Featured Properties - Featured Properties - Imported
+
+Footer First Column : 
+
+Custom Menu - No Title - Imported
+
+Footer Second Column : 
+
+rh_contact_information - No Title - Site does not support widget
+
+Agent Sidebar : 
+
+RealHomes - Agent Featured Properties - Featured Properties - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

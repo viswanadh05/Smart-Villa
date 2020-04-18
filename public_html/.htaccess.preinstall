@@ -1,0 +1,8 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^smartvilla\.com\.au$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.smartvilla\.com\.au$
+RewriteCond %{REQUEST_URI} !^/[0-9]+\..+\.cpaneldcv$
+RewriteCond %{REQUEST_URI} !^/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteRule ^public_html$ "http\:\/\/smartvilla\.com\.au\/index\.html" [R=302,L]
+
