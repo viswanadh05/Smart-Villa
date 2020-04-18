@@ -55,3 +55,29 @@ This project is based on wordpress themes, frameworks, plugins and was built com
 * Team size     : __5__
 * Team Lead     : __Viswanadh Bhaskarla__
 * Main tasks    : __Backend dev__, __PHP Functions__, __Front-end Dev__, __Data Management__, __Plugin management and Testing__
+
+### Project Images
+
+Home Page
+![Smartvilla1](https://user-images.githubusercontent.com/6322818/79627521-5332fe00-817c-11ea-8a5d-71f8044b4a8c.png)
+
+Search Menu
+![smartvilla2](https://user-images.githubusercontent.com/6322818/79627525-680f9180-817c-11ea-8c1e-4295430d1afb.png)
+
+Register
+![smartvilla3](https://user-images.githubusercontent.com/6322818/79627528-75c51700-817c-11ea-943e-1d409640fe7a.png)
+
+Google Maps: Locate Property
+![smartvilla4](https://user-images.githubusercontent.com/6322818/79627532-82496f80-817c-11ea-8bc2-2feccea0a124.png)
+
+Property Listing
+![smartvilla5](https://user-images.githubusercontent.com/6322818/79627544-9ee5a780-817c-11ea-8f18-915686f34363.png)
+
+Auction System
+![smartvilla6](https://user-images.githubusercontent.com/6322818/79627549-ad33c380-817c-11ea-96d4-e8f8ba1e17f7.png)
+
+Project Source
+![smartvilla7](https://user-images.githubusercontent.com/6322818/79627555-bae94900-817c-11ea-8083-e5965bf73b8f.png)
+
+
+
