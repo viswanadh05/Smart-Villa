@@ -51,8 +51,7 @@ This project is based on wordpress themes, frameworks, plugins and was built com
 * Got to Localhost web page to view the project home page. 
 
 ### Author
-* Developed by __Team Forerunners__
-* Team size: __5__
-* Team Lead: __Viswanadh Bhaskarla__
-* Main tasks: __Backend dev__, __Writing PHP Functions__, __Front-end Dev__, __Database Management__, __Plugin management and Testing__
-
+* Developed by  : __Team Forerunners__
+* Team size     : __5__
+* Team Lead     : __Viswanadh Bhaskarla__
+* Main tasks    : __Backend dev__, __PHP Functions__, __Front-end Dev__, __Data Management__, __Plugin management and Testing__
